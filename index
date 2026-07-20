@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="refresh" content="0; url=https://plus.aprace.club/login">
+    <script type="text/javascript">
+        window.location.href = "https://plus.aprace.club/login"
+    </script>
+    <title>Redirecting...</title>
+</head>
+<body>
+    <p>If you are not redirected automatically, follow this <a href="https://aprace.club">link to login</a>.</p>
+</body>
+</html>
